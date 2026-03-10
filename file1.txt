@@ -2,3 +2,4 @@ hello, world
 12345
 good bye 
 new string
+Line from user1
